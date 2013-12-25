@@ -3,8 +3,7 @@
 * Ruby version: ruby 2.0.0p353
 * Rails version: rails 4.0.2
 
-To user this server, execute
- <tt>rails server</tt> from the terminal from the root the folder. Then go to a browser and type localhost:3000.
+To user this server, execute rails server from the terminal from the root the folder. Then go to a browser and type localhost:3000.
 
  * The ruby file config/routes.rb has been configured to direct you to the index.html.erb file the app/views/demo folder. 
 
