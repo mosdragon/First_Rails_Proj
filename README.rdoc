@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: ruby 2.0.0p353
+* Rails version: rails 4.0.2
 
-Things you may want to cover:
+To user this server, execute
+ <tt>rails server</tt> from the terminal from the root the folder. Then go to a browser and type localhost:3000.
 
-* Ruby version
+ * The ruby file config/routes.rb has been configured to direct you to the index.html.erb file the app/views/demo folder. 
 
-* System dependencies
+ * The file demo_controller under app/controller lists some of the get commands this rails server can handle. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+ * This project is currently being worked on to make use of a MySQL database. I will update the repo when I complete a few more of the lessons I'm following for rails on lynda.com
